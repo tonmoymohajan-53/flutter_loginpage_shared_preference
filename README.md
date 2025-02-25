@@ -2,7 +2,7 @@
 
    Simple Flutter Log In Page Using Shared Preference.
 
-     ![screenshot](assets/images/sc.png)
+     ![sc](assets/images/sc.png)
 
  
 
